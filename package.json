@@ -2,7 +2,7 @@
   "name": "blockchain-crowdfunding-ics22178",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tw0sb.github.io/blockchain-hw2"
+  "homepage": "https://tw0sb.github.io/blockchain-hw2",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
