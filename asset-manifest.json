@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blockchain-hw2/static/css/main.8144124f.css",
+    "main.js": "/blockchain-hw2/static/js/main.1150f6a5.js",
+    "static/js/488.b6cd3c9d.chunk.js": "/blockchain-hw2/static/js/488.b6cd3c9d.chunk.js",
+    "index.html": "/blockchain-hw2/index.html",
+    "main.8144124f.css.map": "/blockchain-hw2/static/css/main.8144124f.css.map",
+    "main.1150f6a5.js.map": "/blockchain-hw2/static/js/main.1150f6a5.js.map",
+    "488.b6cd3c9d.chunk.js.map": "/blockchain-hw2/static/js/488.b6cd3c9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8144124f.css",
+    "static/js/main.1150f6a5.js"
+  ]
+}
